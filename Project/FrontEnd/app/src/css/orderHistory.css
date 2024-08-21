@@ -1,0 +1,21 @@
+.order-history {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .order-card {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .order-card-title {
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+  .order-card-text {
+    font-size: 1rem;
+    margin-bottom: 15px;
+  }

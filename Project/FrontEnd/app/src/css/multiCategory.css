@@ -1,0 +1,8 @@
+.multiVal{
+    height: min-content;
+    padding: 0px;
+}
+.categoryBox{
+    min-width: 200px;
+    max-height: auto;
+}

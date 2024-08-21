@@ -1,0 +1,7 @@
+.book-card {
+    margin-bottom: 20px;
+}
+.book-card img {
+    height: 400px;
+    object-fit: cover;
+}

@@ -1,0 +1,26 @@
+.custom-accordion{
+    background-image: linear-gradient(hsl(107, 19%, 90%),hsl(107, 19%, 95%));
+}
+.accordion-button {
+    background-image: linear-gradient(hsl(107, 19%, 90%),hsl(107, 19%, 95%));
+}
+.accordion-body {
+    background-color: hsl(107, 19%, 90%)
+}
+h1,h2,h3,h4,h5,h6{
+    color: hsl(107, 19%, 35%);
+}
+
+.list-group-item{
+    background-color: hsl(107, 19%, 90%);
+    border: none;
+    text-align: center;
+    font-size: 0.9em;
+} 
+.list-group-item:active{
+    background-color: hsl(105, 20%, 80%)  ;
+}
+
+.list-group {
+    --bs-list-group-action-hover-bg: hsl(105, 20%, 80%) ;
+}

@@ -1,0 +1,24 @@
+.search-icon
+{
+   height: 30px;
+   width: 30px;
+}
+
+.search-bar
+{
+   width: 400px;
+}
+
+.playfair-display-title {
+   font-family: "Playfair Display", serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+}
+
+.button:hover
+{
+   background-color: grey;
+}
+
+/* // className="navbar navbar-light bg-primary d-flex justify-content-between py-3" */

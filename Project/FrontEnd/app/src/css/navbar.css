@@ -1,0 +1,34 @@
+.search-bar {
+    width: 75%; /* Adjust the width as needed */
+    margin: auto;
+    max-width: 75%;
+    min-width: 75%;
+  }
+  
+  .cart-icon {
+    font-size: 2em; /* Adjust the size as needed */
+  }
+  .customNav{
+    background-image: linear-gradient(hsl(107, 19%, 80%),hsl(107, 19%, 90%));
+        
+  }
+  .navbar-header {
+    background-color: #F16E10;
+  }
+  .navbar,
+.navbar-default {
+   
+    text-align: center;
+}
+.large-input{
+    min-width: 300px; /*You can add the size you want here*/
+  }
+.search-button{
+    background-image: linear-gradient(#82ae76,#63855A);
+}
+.search-button:hover{
+    background-image: linear-gradient(hsl(107, 19%, 40%),hsl(107, 19%, 30%));
+}
+.btn{
+    border: none;
+}
